@@ -166,13 +166,13 @@ function App() {
               <div className="text-balance">
                 Student{/* */} at{/* */}{" "}
                 <a
-                  href="https://thptgiongongto.hcm.edu.vn/"
+                  href="https://nckx168.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-semibold hover:underline"
                   aria-label="Quaric"
                 >
-                  Giong Ong To Senior High School
+                  THPT Luu Huu Phuoc
                 </a>
               </div>
             </div>
@@ -203,7 +203,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="hover:underline"
                 >
-                  Thu Duc District, Ho Chi Minh City, Viet Nam
+                  Ho Chi Minh City, Viet Nam
                 </a>
               </div>
             </div>
@@ -229,12 +229,12 @@ function App() {
               </i>
               <div className="text-balance">
                 <a
-                  href="mailto:contact@levinhkhang.org?subject=Hi,+Lê Vĩnh Khang"
+                  href="mailto:deptrainck@gmail.com?subject=Hi,+Nckx"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:underline"
                 >
-                  contact@levinhkhang.org
+                  deptrainck@gmail.com
                 </a>
               </div>
             </div>
@@ -264,12 +264,12 @@ function App() {
               </i>
               <div className="text-balance">
                 <a
-                  href="https://levinhkhang.org"
+                  href="https://nckx168.org"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:underline"
                 >
-                  levinhkhang.org
+                  nckx168.org
                 </a>
               </div>
             </div>
@@ -362,7 +362,7 @@ function App() {
               type="button"
               className="flex items-center justify-center space-x-2 rounded-lg px-4 py-2  bg-slate-700 text-white transition-colors select-none group hover:bg-blue-600"
               onClick={() =>
-                (window.location.href = "mailto:contact@levinhkhang.org")
+                (window.location.href = "mailto:deptrainck@gmail.com")
               }
             >
               <i className="text-slate-400 transition-colors group-hover:text-blue-200">
@@ -456,7 +456,7 @@ function App() {
               </span>
             </div>
             <span className="select-none text-sm leading-none text-slate-400">
-              © {/* */}2024{/* */} Le Vinh Khang. All rights reserved.
+              © {/* */}2024{/* */} Khai Hoan (Nckx). All rights reserved.
             </span>
           </div>
         </footer>
