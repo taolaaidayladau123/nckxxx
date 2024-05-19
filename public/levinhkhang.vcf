@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 14.3//EN
-N:Lê Vĩnh Khang;;;;
-FN:Lê Vĩnh Khang
-ORG:THPT Giong Ong To;
+N:Khải Hoàn;;;;
+FN:Khải Hoàn
+ORG:THPT LHP;
 TITLE:Senior Frontend Developer / UI Design Lead
-EMAIL;type=INTERNET;type=pref:contact@levinhkhang.org
-ADR;type=pref:;;Thu Duc District\, Ho Chi Minh City\, Viet Nam;;;;
+EMAIL;type=INTERNET;type=pref:deptrainck@gmail.com
+ADR;type=pref:;;Ho Chi Minh City\, Viet Nam;;;;
 X-SOCIALPROFILE;type=Instagram;x-user=williamcachamwri:https://instagram.com/williamcachamwri
 X-SOCIALPROFILE;type=GitHub;x-user=levinhkhangzz:https://github.com/levinhkhangzz
 X-SOCIALPROFILE;type=Zalo;x-user=levinhkhangdeptrai:https://zalo.me/0905243477
