@@ -85,7 +85,7 @@ function App() {
         <header className="-mx-2 mt-2 md:mx-0">
           <div className="aspect-h-1 aspect-w-2 relative flex w-full overflow-hidden rounded-xl bg-primary-900 shadow-lg">
             <img
-              alt="Le Vinh Khang's cover image"
+              alt="Khai Hoan's cover image"
               fetchpriority="high"
               decoding="async"
               data-nimg="fill"
@@ -103,7 +103,7 @@ function App() {
           </div>
           <div className="relative z-20 mx-auto -mt-10 h-40 w-40 select-none overflow-hidden rounded-full border-4 border-slate-900 bg-primary-900 md:-mt-20">
             <img
-              alt="Le Vinh Khang's avatar"
+              alt="Khai Hoan's avatar"
               fetchpriority="high"
               width={152}
               height={152}
@@ -172,7 +172,7 @@ function App() {
                   className="font-semibold hover:underline"
                   aria-label="Quaric"
                 >
-                  THPT Luu Huu Phuoc
+                  THPT LHP
                 </a>
               </div>
             </div>
