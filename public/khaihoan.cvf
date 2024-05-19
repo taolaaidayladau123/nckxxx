@@ -10,9 +10,11 @@ ADR;type=pref:;;Ho Chi Minh City\, Viet Nam;;;;
 X-SOCIALPROFILE;type=Instagram;x-user=_enc.kay168:https://instagram.com/_enc.kay168
 X-SOCIALPROFILE;type=GitHub;x-user=nckx0666:https://github.com/nckx0666
 X-SOCIALPROFILE;type=Facebook;x-user=Khải Hoàn:https://fb.com/nck1608
-item1.URL;type=pref:https://nckx168.org
-item2.URL;type=pref:https://nckx168.dev
-item3.URL;type=pref:https://nckx168.com
+URL;type=pref:https://nckx168.org
+item1.URL;type=pref:https://nckx168.dev
+item1.X-ABLabel:_$!<WorkPage>!$_
+item2.URL;type=pref:https://nckx168.com
+item2.X-ABLabel:_$!<DevPage>!$_
 item1.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
